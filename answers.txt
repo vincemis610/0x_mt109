@@ -1,0 +1,25 @@
+1.- Unit test is a testing method by wich individual units code and determinate if they are ready to use, test each part of the 
+    program and show that the individual part is correct, can be performed at any time, is a kind of box testing.
+    Integrations Test check integration between software modules, combine diferent modules in the application ans test as a group
+    to see they working fine, is performed by the testing team, start with a interface specification.
+
+2.- I understand that SCRUM work as phases where every team has an goal for a time.
+
+3.- TDD work as method test than agilize our code when development, has 3 parts fail, pass or refactoring.
+
+4.- 
+
+5.- 
+
+6.- Uploading a file: the app need to detect what kind of file the client is uploading and depend of the file need tu run some functions
+    - Detect if the file is allowed
+    - Determinate the size file dont rebase the limit 
+    - Detect width an height image
+    - Allow uploading
+    - Storage in cloud
+    - set url in DB
+
+7.- 
+
+8.- Fundamentos de Programacion 
+    Manual de programacion PHP
