@@ -1,0 +1,82 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: rgb(241, 241, 241);
+	position: absolute;
+	height: auto;
+    width: 50%;
+    align-items: center;
+    right: 25%;
+	top: 40%;
+	margin-top: -100px;
+	margin-left: -150px;
+
+}
+
+.app {
+    background-color: rgb(241, 241, 241);
+    margin: 10px;
+}
+
+.row {
+    border-left: 3px solid rgb(47, 146, 228);
+    padding: 15px;
+    display: flex;
+    background-color: white;
+    margin-bottom: 5px;
+}
+
+.col-1{
+    display: block-inline;
+    height: 100%;
+    width: 10%;
+    margin: 3px;
+}
+
+.col-2{
+    display: block-inline;
+    height: 100%;
+    width: 20%;
+    margin: 3px;
+}
+
+.col-3{
+    display: block-inline;
+    height: 100%;
+    width: 30%;
+    margin: 3px;
+}
+
+.col-1 span, .col-2 span, .col-3 span{
+    color: grey;
+    font-size: 12px;
+}
+
+.col-1 div, .col-2 div, .col-3 div {
+    font-weight: 200;
+    font-size: 14px;
+}
+
+.btn {
+    line-height: 30px;
+}
+
+.btn button {
+    color: white;
+    border-radius: 10px;
+    padding: 2px 8px;
+    border: none;
+    float: right;
+}
+
+.btn-1 {
+    background-color:  rgb(47, 146, 228);
+}
+
+.btn-2 {
+    background-color: rgb(136, 224, 127);
+}
